@@ -7,7 +7,7 @@
         <methods>
           <include name="close"/>
           <include name="setup"/>
-          <include name="loginWithValidAndInvalidCred" invocation-numbers="0 1 2 3 4"/>
+          <include name="loginWithValidAndInvalidCred" invocation-numbers="1 2 3 4"/>
         </methods>
       </class> <!-- com.hrm.scenario1.Pages.LoginAndLogout -->
     </classes>
